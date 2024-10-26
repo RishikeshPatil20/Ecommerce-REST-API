@@ -1,4 +1,4 @@
-# ecommerce-REST-API
+# Ecommerce-REST-API
 # Node.js and Express.js Application
 
 This is a Node.js and Express.js application with a modular structure, providing functionalities for user, product, and cart management. It includes JWT-based authentication, validation, and logging mechanisms to ensure a secure and maintainable codebase.
